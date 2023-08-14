@@ -1,6 +1,6 @@
 {
   "name": "mojl-clean-css",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.0",
   "description": "An adaptor for using clean-css with mojl",
   "main": "index.js",
   "files": [
