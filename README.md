@@ -1,9 +1,9 @@
 # mojl-clean-css
 
-An adaptor for using clean-css with mojl
+An adapter for using clean-css with mojl
 
 ```javascript
 new Mojl({
-  cssMinifierAdaptor: 'mojl-clean-css'
+  cssMinifierAdapter: 'mojl-clean-css'
 });
 ```
